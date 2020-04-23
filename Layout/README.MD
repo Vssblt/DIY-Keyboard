@@ -1,0 +1,1 @@
+You can use this website(http://www.keyboard-layout-editor.com/) to parse the data.
